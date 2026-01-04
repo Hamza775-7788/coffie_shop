@@ -22,8 +22,7 @@
 
 ## 🎨 التصميم (Figma)
 
-[![Figma Design Preview](https://github.com/Hamza775-7788/coffie_shop/raw/main/assets/Thumbnail.png)](https://www.figma.com/design/bbKalHaPICf3IFedNNd4Fx/Coffee-Shop-Mobile-App-Design--Community-?node-id=417-156&p=f&m=draw)
----
+## [![Figma Design Preview](assets/Thumbnail.png)](https://www.figma.com/design/bbKalHaPICf3IFedNNd4Fx/Coffee-Shop-Mobile-App-Design--Community-?node-id=417-156&p=f&m=draw)
 
 ## 📚 ماذا سوف تتعلم من هذا المشروع؟
 
